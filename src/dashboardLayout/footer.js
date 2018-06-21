@@ -3,7 +3,9 @@ class Footer extends Component {
     render() {
         return (
             <div>
-                Footer
+                <small>
+                    © Copyright 2018
+                </small>
             </div>
         );
     }

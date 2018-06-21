@@ -4,7 +4,6 @@ class Menu extends Component {
     render() {
         return (
             <div>
-                Menu
                 <ul>
                     <li>
                         <Link to='/home'>Home</Link>
@@ -19,7 +18,6 @@ class Menu extends Component {
                         <Link to='/login' >Logout</Link>
                     </li>
                 </ul>
-
             </div>
         );
     }

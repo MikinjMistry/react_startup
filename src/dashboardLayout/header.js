@@ -3,7 +3,9 @@ class Header extends Component {
     render() {
         return (
             <div>
-                Header
+                <h1>
+                    Todo App
+                </h1>
             </div>
         );
     }
